@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9d840796e8a2865328a7fba3",
+  "owner": "peyrdlgj",
+  "repo": "page-6ce27ee3f42d4783d302494d",
+  "title": "BlackCatX",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6ce27ee3f42d4783d302494d",
+      "a": "BlackCatX",
+      "b": "2027官方最新地址导航",
+      "entity": "BlackCatX",
+      "brand": "BlackCatX",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a104281a448cba1b71acd0eaf928872ffbe89044c708c0a9e92ac105094cc629",
+      "content": {
+        "primary_entity": "BlackCatX",
+        "keyword1": "BlackCatX",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选客户端，订阅配置更顺手。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐，按设备配置订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始使用 BlackCatX",
+          "AI_DESCRIPTION": "，面向需要海外网络加速的用户，提供基础版、旗舰版与团队版三档订阅。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备并带 IPLC 专线优化；团队版每月 1000GB 流量、支持 20 台设备。按月或按年付费均可，按年付更划算。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路三方面挑选合适的订阅。",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合单人或轻量使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、5 台设备，带 IPLC 专线优化，适合多设备用户。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，适合小团队统一配置。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备数选套餐",
+          "AI_FEATURE_TITLE_3": "按使用场景选套餐",
+          "AI_GUIDE_INTRO": "先确认服务与设备要求，再按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "BlackCatX 提供基础版、旗舰版与团队版三档海外网络加速订阅，覆盖不同流量与设备需求。按月付费灵活，按年付费更省，按客户端文档配置订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需选配",
+          "AI_HIGHLIGHT_1": "基础版 100GB 流量，3 台设备在线",
+          "AI_HIGHLIGHT_2": "旗舰版 300GB 流量，IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "团队版 1000GB 流量，支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年；旗舰版 ¥35/月或 ¥350/年；团队版 ¥85/月或 ¥850/年。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据使用人数和每月流量，确定基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数量与线路说明，确认现有设备是否满足。",
+          "AI_STEP_TEXT_3": "依照所用客户端文档导入订阅信息，完成配置后开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "BlackCatX 订阅选择",
+          "AI_FAQ_ANSWER_1": "基础版适合轻度使用，每月 100GB 流量和 3 台设备；旗舰版每月 300GB 流量、5 台设备并带 IPLC 专线；团队版每月 1000GB 流量、20 台设备，适合多人共享。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。如果需要在手机、电脑和平板之间切换，建议按常用设备数选择对应套餐，避免连接数不足。",
+          "AI_FAQ_ANSWER_3": "可以。基础版按年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。年付比月付更划算，适合确定长期使用的用户，订阅周期在购买时直接选择。",
+          "AI_FAQ_ANSWER_4": "打开客户端后找到订阅或配置导入入口，粘贴购买后获得的订阅地址，保存并更新节点列表，然后选择合适的节点连接即可。不同客户端界面略有差异，可参考对应文档。",
+          "AI_FAQ_ANSWER_5": "可以。团队版每月 1000GB 流量、支持 20 台设备，并提供支持定制路由和专属客户经理服务。需要跨设备或跨地点使用时，团队版比个人套餐更合适。",
+          "AI_FAQ_INTRO": "订阅导入、设备数量与套餐周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版有什么区别？",
+          "AI_FAQ_QUESTION_2": "一个套餐可以同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_3": "可以按年付费吗？价格是多少？",
+          "AI_FAQ_QUESTION_4": "如何在客户端导入订阅？",
+          "AI_FAQ_QUESTION_5": "团队版适合多人共享吗？",
+          "AI_FAQ_TITLE": "常见问答"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xiangchengrc.cn",
+    "host": "xiangchengrc.cn"
+  },
+  "file_hashes": {
+    "index.html": "e791acbb77598be6915ea0a1a7d428004c4dc5bc029115ac88bb82295c8f1153",
+    "sitemap.xml": "05a01ad6d0322aad0ebfaf3029a48cdf881d1f2695b970fe5faa8f18c6970e2e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d22a40a4cd6754944de527b92be5af40e774459beb3726ac346c2714e158adc6",
+    "robots.txt": "72d5683417fa6509c11c3c4d2b1d548a2372f43bb9cea93bbb57f2025c4661a1",
+    "868378939b1d42ffdbfbaeeaea9272e1.txt": "12006e42f5b79e0d6387fe1b729b5b6ca84e9c770a944ba268f82edd9b094381"
+  },
+  "revision": "e21f019532556abd409246124ebfff058b4b74d6c0546d175fe2cadf7777f3a0"
+}
